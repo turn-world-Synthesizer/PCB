@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Editor history and temporary files
+.history/
+.write_test
+
+# KiCad local state, caches, locks and automatic backups
+*.kicad_prl
+fp-info-cache
+~*.lck
+*.lck
+*-backups/
+_autosave-*
+*.bak
